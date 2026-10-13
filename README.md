@@ -1,2 +1,2 @@
 # CodeRun
-So hey! who is this side doesn't matter much but the thing that matters is I am going to build a system that can run and examine your code! Not a pro yet and not in intention of being one but definitely in intention of building a better system for gitmy curiosity 
+So hey! who is this side doesn't matter much but the thing that matters is I am going to build a system that can run and examine your code! Not a pro yet and not in intention of being one but definitely in intention of building a better system for my curiosity 
